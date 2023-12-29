@@ -2,9 +2,6 @@ beforeEach(() => {
     cy.visit('cypress/fixtures/registration_form_2.html')
 })
 
-/*
-Assignement 4: add content to the following tests
-*/
 
 describe('Section 1: Functional tests', () => {
 
